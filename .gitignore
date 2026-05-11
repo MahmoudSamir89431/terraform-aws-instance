@@ -1,4 +1,4 @@
 .tfstate.*
 .tfplan
 .DS_Store
-terraform/.terraform/providers/registry.terraform.io
+.terraform/providers/registry.terraform.io
