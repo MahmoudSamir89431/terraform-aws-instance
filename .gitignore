@@ -1,3 +1,4 @@
 .tfstate.*
 .tfplan
 .DS_Store
+terraform
