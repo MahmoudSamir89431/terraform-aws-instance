@@ -9,5 +9,9 @@ output "aws_instance_ip" {
 
 output "aws_instance" {
     value = aws_instance.hello_world
+}
+
+output "aws_instance_role" {
+    value = aws_iam_role.main
   
 }
